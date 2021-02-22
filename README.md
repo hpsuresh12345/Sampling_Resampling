@@ -1,2 +1,2 @@
 # Sampling_Resampling
-In this repositories stored all sampling and resampling algorithms in python
+In this repository stored all sampling and resampling algorithms in python
